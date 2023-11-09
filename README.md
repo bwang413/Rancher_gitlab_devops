@@ -167,4 +167,4 @@ Create `.gitlab-ci.yml` in the project
 
 You can check pipeline working in Gitlab's Project detail page's sidebar: `Build / Pipelines`
     
-### Date: **Saturday, June 10, 2023**
+### Date: **Saturday, November 9, 2023**
